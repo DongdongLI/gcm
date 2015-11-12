@@ -1,0 +1,8 @@
+Server API Key help
+AIzaSyCj2MSJKaEsTKXbIbAvge1tl-AEIQSQbjE
+
+Android API key
+AIzaSyBK0Ap0Ts3p0AgbKruGX-rhdoEk_8jSpOg
+
+Sender ID help
+907637094110
